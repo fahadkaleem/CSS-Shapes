@@ -115,5 +115,12 @@
     width: 12px;
     height: 12px;
     -webkit-transform: rotate(45deg);
+}
 
+.trapezoid{
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid aquamarine;
+    width:100px;
+    height: 0;
 }
