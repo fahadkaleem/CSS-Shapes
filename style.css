@@ -50,4 +50,19 @@
     border-top: 200px solid aquamarine;
 }
 
+.triangle-left{
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-right: 200px solid aquamarine;
+    border-bottom: 100px solid transparent;
+}
+
+.triangle-right{
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-left: 200px solid aquamarine;
+    border-bottom: 100px solid transparent;
+}
 
