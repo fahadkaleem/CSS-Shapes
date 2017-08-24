@@ -124,3 +124,12 @@
     width:100px;
     height: 0;
 }
+
+.parallelogram{
+    width: 250px;
+    height: 200px;
+    -webkit-transform: skew(20deg);
+    background: aquamarine;
+}
+
+
