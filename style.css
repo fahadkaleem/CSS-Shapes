@@ -66,3 +66,24 @@
     border-bottom: 100px solid transparent;
 }
 
+.triangle-top-left{
+    width:0;
+    height: 0;
+    border-bottom: 100px solid transparent;
+    border-left: 200px solid aquamarine;
+}
+
+.triangle-top-right{
+    width:0;
+    height: 0;
+    border-bottom: 100px solid transparent;
+    border-right: 200px solid aquamarine;
+}
+
+.triangle-bottom-right{
+    width: 0;
+    height: 0;
+    border-right: 200px solid aquamarine;
+    border-top: 100px solid transparent;
+}
+
