@@ -80,6 +80,14 @@
     border-right: 200px solid aquamarine;
 }
 
+
+.triangle-bottom-left{
+    width: 0;
+    height: 0;
+    border-left: 200px solid aquamarine;
+    border-top: 100px solid transparent;
+}
+
 .triangle-bottom-right{
     width: 0;
     height: 0;
