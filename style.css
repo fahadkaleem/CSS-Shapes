@@ -7,30 +7,38 @@
     margin: auto;
 }
 
-.custom-background{
-    background: aquamarine;
-}
-
 /*-----Shapes-----*/
 .square{
     height: 200px;
     width: 200px;
+    background: aquamarine;
 }
 
 .rectangle{
     height:200px;
     width: 400px;
+    background: aquamarine;
 }
 
 .circle{
     width:400px;
     height: 400px;
     border-radius: 200px;
+    background: aquamarine;
 }
 
 .oval{
     width: 400px;
     height: 200px;
     border-radius: 200px/100px;
+    background: aquamarine;
+}
+
+.shape{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid aquamarine;
 }
 
