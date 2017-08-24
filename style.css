@@ -28,4 +28,9 @@
     border-radius: 200px;
 }
 
+.oval{
+    width: 400px;
+    height: 200px;
+    border-radius: 200px/100px;
+}
 
